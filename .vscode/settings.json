@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/StefG/.local/share/virtualenvs/mycourse-qSVW5Dn7/bin/python"
+    "python.pythonPath": "/Users/StefG/.local/share/virtualenvs/mycourse-qSVW5Dn7/bin/python",
+    "python.languageServer": "Pylance"
 }
