@@ -6,7 +6,7 @@
 
 [2 - Installed pandas, scipy ](../../tree/6e7469912f177b68bb6db5723addcb6823fa349b/)
 
-[3 - Python practice ](../../tree//)
+[3 - Python practice ](../../tree/0693288dc440414a9fdaf6c38d747ceacca64776/)
 
 [4 - Next ](../../tree//)
 
