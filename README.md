@@ -12,7 +12,7 @@
 
 [5 - Added statistics ](../../tree/5842c26ed217d4bbf86f52c6cd0ccecfe270300f/)
 
-[6 - Next ](../../tree//)
+[6 - Practice 1 ](../../tree/c1d9330187eefc5b2b970c08b2a20a82dbffc5c5/)
 
 [7 - Next ](../../tree//)
 
