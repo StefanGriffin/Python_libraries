@@ -14,7 +14,7 @@
 
 [6 - Practice 1 ](../../tree/c1d9330187eefc5b2b970c08b2a20a82dbffc5c5/)
 
-[7 - Next ](../../tree//)
+[7 - Setup is completed ](../../tree/57577d8d33706888ae242123fc6ffa03ccd186da/)
 
 [8 - Next ](../../tree//)
 
